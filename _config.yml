@@ -1,0 +1,53 @@
+# Site settings
+course_name: "ECE 172A  - Introduction to Image Processing"
+course_description: "This is an undergraduate course the basics of machine perception (a.k.a. image processing). Topics covered will include concepts from two-dimensional signal processing (e.g., 2D Fourier transforms, z-transforms, etc.) including image filtering/restoration, edge detection, segmentation, image analysis, image compression, and image reconstruction."
+course_semester: "Winter 2025"
+
+baseurl: "/172a" # the subpath of your site, e.g. /blog/
+url: "https://sparsity-group.github.io/" # the base hostname & protocol for your site
+
+schoolname: "University of California, San Diego"
+schoolurl: "https://ece.ucsd.edu"
+  #twitter_username: username 
+
+address: |
+    Department of Electrical and Computer Engineering
+    University of California, San Diego
+    9736 Engineers Ln
+    La Jolla, CA 92093
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
