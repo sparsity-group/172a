@@ -9,15 +9,21 @@ title: Home
 **Discussions:** Mondays 17:00 – 17:50 (CENTR 212)
 
 **Instructor:** Rahul Parhi (<rahul@ucsd.edu>)  
-**Office Hours:** TBD  
-**Office:** Jacobs Hall, Room 6406
+**Office:** Jacobs Hall, Room 6406  
+**Office Hours:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thursdays 16:00 -- 17:00  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fridays 16:00 -- 17:00
 
 **TA:** Niyas Attasseri (<nattasseri@ucsd.edu>)  
-**Office Hours:** TBD
+**Office Hours:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wednesdays 13:00 – 14:00  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fridays 14:00 – 15:00  
+**Office Hours Location:** Jacobs Hall, Room 5101B
 
 **Canvas:** <https://canvas.ucsd.edu/courses/62410>  
 **Piazza:** <https://piazza.com/class/m5hdhecdrjp4dz>  
-**Gradescope:** <https://www.gradescope.com/courses/938339>
+**Gradescope:** <https://www.gradescope.com/courses/938339>  
+**DataHub:** <https://datahub.ucsd.edu>
 
 # Prerequisites
 
