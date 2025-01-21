@@ -37,6 +37,7 @@ components of the course.
 The course grade will be determined by
 * 5-8 Assignments (either "pen-and-paper" homework or programming lab exercises) **(40%)**
 * Midterm Exam **(20%)**
+    - The mideterm will take place on Tuesday, February 11th in class
 * Final Exam  **(40%)**
     - The final will take place on Thursday, March 20th from 19:00 -- 21:59
 
